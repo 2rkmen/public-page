@@ -1,2 +1,2 @@
 # public-page
-играемся с github pages
+test github pages
