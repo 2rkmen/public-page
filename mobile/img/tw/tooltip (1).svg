@@ -1,0 +1,15 @@
+<svg width="24" height="30" viewBox="0 0 24 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M15.6004 23.3415C20.4687 21.8194 24 17.2923 24 11.9442C24 5.34761 18.6274 0 12 0C5.37258 0 0 5.34761 0 11.9442C0 17.5194 3.83759 22.2024 9.02694 23.519C10.1395 26.3088 12.2788 29.9998 12.2788 29.9998C12.2788 29.9998 14.5104 26.1494 15.6004 23.3415Z" fill="#FF551F"/>
+    <path d="M14.0947 6.04004V16.9531H12.1318V7.96631H12.0659L9.51709 9.59961V7.7832L12.2271 6.04004H14.0947Z" fill="white"/>
+<!--    <text x="25%" y="10" fill="white">60</text>-->
+<!--    <style>-->
+<!--        .small { font: italic 13px sans-serif; }-->
+<!--        .heavy { font: bold 30px sans-serif; }-->
+
+<!--        /* Обратите внимание, что цвет текста задаётся с помощью        *-->
+<!--        * fill свойства, а свойство color используется только для HTML */-->
+<!--        .Rrrrr { font: italic 40px serif; fill: red; }-->
+<!--    </style>-->
+
+<!--    <text x="10" y="15" class="heavy" fill="white">3</text>-->
+</svg>
